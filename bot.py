@@ -14,8 +14,8 @@ from telegram import Update
 
 # --- Configuration ---
 # ඔබ ලබාදුන් තොරතුරු මෙහි ඇතුළත් කර ඇත
-YOUR_BOT_TOKEN = "8254600761:AAE7m4xb9gt8f8ovasVOEo5nGn4CBL0wdqw" 
-ADMIN_CHAT_IDS = ["7459356628"] 
+YOUR_BOT_TOKEN = "8579841364:AAEo33ypXyOnRwFkEM4ffm2bSo1DhG8atcE" 
+ADMIN_CHAT_IDS = ["8387610260"] 
 INITIAL_CHAT_IDS = ["-1003597884945"] 
 
 LOGIN_URL = "https://www.ivasms.com/login"
