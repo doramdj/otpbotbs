@@ -16,7 +16,7 @@ from telegram import Update
 # ඔබ ලබාදුන් තොරතුරු මෙහි ඇතුළත් කර ඇත
 YOUR_BOT_TOKEN = "8579841364:AAEo33ypXyOnRwFkEM4ffm2bSo1DhG8atcE" 
 ADMIN_CHAT_IDS = ["8387610260"] 
-INITIAL_CHAT_IDS = ["-1003597884945"] 
+INITIAL_CHAT_IDS = ["-1003852852176"] 
 
 LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
